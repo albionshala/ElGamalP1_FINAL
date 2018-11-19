@@ -1,0 +1,7 @@
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\obj\Debug\ElGamalP1_FINAL.csprojAssemblyReference.cache
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\obj\Debug\ElGamalP1_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\bin\Debug\ElGamalP1_FINAL.exe.config
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\bin\Debug\ElGamalP1_FINAL.exe
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\bin\Debug\ElGamalP1_FINAL.pdb
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\obj\Debug\ElGamalP1_FINAL.exe
+C:\Users\albio\Source\Repos\ElGamalP1_FINAL\ElGamalP1_FINAL\obj\Debug\ElGamalP1_FINAL.pdb
